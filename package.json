@@ -7,8 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "better-scroll": "^2.4.1",
     "core-js": "^3.6.5",
+    "moment": "^2.29.1",
     "vue": "^2.6.11",
+    "vue-lazy": "^0.2.4",
+    "vue-lazyload": "^1.2.4",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
